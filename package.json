@@ -1,0 +1,11 @@
+{
+  "name":"tagwatcher",
+  "version":"0.0.1",
+  "dependencies":{
+    "watch":"*"
+  },
+  "scripts":{
+    "start":"node watcher.js"
+  },
+  "main":"./watcher.js"
+}
